@@ -1,0 +1,10 @@
+.container {
+    text-align: left;
+    margin: 20px 25px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .kgrow {
+    margin: 10px 5px;
+  }
