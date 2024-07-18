@@ -14,7 +14,7 @@ const Fetchitem = () => {
     const signal = controller.signal;
     
     // dispatch(fetchSliceaction.markfetchingstarted());
-    fetch("http://localhost:8080/items", { signal })
+    fetch("https://react-repo-bi84.onrender.com/items", { signal })
       .then((res) => res.json())
       .then(({ items }) => {
         
