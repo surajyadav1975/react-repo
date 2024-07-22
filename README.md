@@ -1,8 +1,8 @@
 # React Repo
 
-### MYNTRA-CLONE PROJECT : https://myntra-seven-woad.vercel.app/
-### MYNTRA-CLONE PROJECT BACKEND : https://react-repo-bi84.onrender.com/items
-### SOCIAL-MEDIA-APP : https://react-repo-hazel.vercel.app/
+#### MYNTRA-CLONE PROJECT : https://myntra-seven-woad.vercel.app/
+#### MYNTRA-CLONE PROJECT BACKEND : https://react-repo-bi84.onrender.com/items
+#### SOCIAL-MEDIA-APP : https://react-repo-hazel.vercel.app/
 
 This repository contains two projects showcasing skills in React.js. The projects include a Myntra-inspired shopping application and a Social Media App, each demonstrating various React features and responsive design.
 
