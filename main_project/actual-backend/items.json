@@ -3,7 +3,7 @@
     [
       {
         "id": "001",
-        "image": "images/1.jpg",
+        "image": "https://carltonlondon.co.in/cdn/shop/files/s109665e_2.jpg?v=1744613163&width=1500",
         "company": "Carlton London",
         "item_name": "Rhodium-Plated CZ Floral Studs",
         "original_price": 1045,
@@ -15,7 +15,7 @@
       },
       {
         "id": "002",
-        "image": "images/2.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMF4RHS-zjWMOrrKS0sZiTG5AK2ks0l5nqpA&s",
         "company": "CUKOO",
         "item_name": "Women Padded Halter Neck Swimming Dress",
         "original_price": 2599,
